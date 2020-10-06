@@ -13,3 +13,12 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kazi-motiour-161197135/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Md. Omar Faruk's LinkedIn Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://dev.to/mothour" target="_blank"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Md. Omar Faruk's DEV Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://stackoverflow.com/users/11881302/kazi-mothour-rahaman-171-15-86" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Md. Omar Faruk's Stackoverflow Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/motiour.rahmaan/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Md. Omar Faruk's Facebook Profile" height="30" width="30"> 
 </p>
+
+
+
+
+
+## KEY SKILLS
+
+#### LANGUAGES
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
