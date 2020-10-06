@@ -25,14 +25,14 @@
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java)
-![C++](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=C&logoColor=%23222222)
+![C++](https://img.shields.io/badge/-C++-%23A8B9CC?style=flat-square&logo=C&logoColor=%23222222)
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=C&logoColor=%23222222)
 
 #### FRAMEWORKS
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/-React.js-%23555555?style=flat-square&logo=vue.js&logoColor=%2341B883)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=Bootstrap)
-![Material-ui](https://img.shields.io/badge/-Material-ui-%23563D7C?style=flat-square&logo=Bootstrap)
+![Materialui](https://img.shields.io/badge/-Materialui-%23563D7C?style=flat-square&logo=Bootstrap)
 ![Antd](https://img.shields.io/badge/-Antd-%23563D7C?style=flat-square&logo=Bootstrap)
 
 #### DATABASE
