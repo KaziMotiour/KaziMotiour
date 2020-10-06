@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Django And React intregration
 - 👯 I’m looking to collaborate on other django developers
 - 🥅 2020 Goals: Became a professional web developer 
-- ⚡ Fun fact: playing video game.
+- ⚡ Fun fact: playing video games.
 
 #### CONNECT WITH ME 👁‍🗨
 
