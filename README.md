@@ -32,8 +32,8 @@
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/-React.js-%23555555?style=flat-square&logo=vue.js&logoColor=%2341B883)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=Bootstrap)
-![Materialui](https://img.shields.io/badge/-Materialui-%23563D7C?style=flat-square&logo=Bootstrap)
-![Antd](https://img.shields.io/badge/-Antd-%23563D7C?style=flat-square&logo=Bootstrap)
+![Materialui](https://img.shields.io/badge/-Materialui-%23563D7C?style=flat-square&logo=Materialui)
+![Antd](https://img.shields.io/badge/-Antd-%23563D7C?style=flat-square&logo=Antd)
 
 #### DATABASE
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=PostgreSQL)
