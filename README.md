@@ -48,3 +48,7 @@
 ![JetBrains](http://img.shields.io/badge/-JetBrains-%23000000?style=flat-square&logo=JetBrains)
 ![Heroku](http://img.shields.io/badge/-Heroku-400099?style=flat-square&logo=heroku&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+#### Problem solving experience
+
+<a href="https://www.hackerrank.com/kazi15_8649" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="Md. Omar Faruk's LinkedIn Profile" height="30" width="30">
