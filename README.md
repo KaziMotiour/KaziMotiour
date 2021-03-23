@@ -1,4 +1,4 @@
-# Hi, This is Kazi Motiour Rahman 👋 [![Github](https://img.shields.io/github/followers/KaziMotiour?label=Followers&style=social)](https://github.com/KaziMotiour)<!--&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=KaziMotiour)](https://github.com/KaziMotiour)-->
+# Hi, This is Kazi Motiour Rahman 👋 
 &nbsp;&nbsp;
 
 
