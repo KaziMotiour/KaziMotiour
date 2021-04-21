@@ -1,4 +1,4 @@
-# Hi, This is Kazi Motiour Rahman 👋 
+# Hi, This is Kazi Motiour Rahman
 &nbsp;&nbsp;
 
 #### CONNECT WITH ME 👁‍🗨
